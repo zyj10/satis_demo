@@ -7,7 +7,6 @@ namespace Hello;
  * Date: 2018/1/26
  * Time: 15:26
  */
-date_default_timezone_set("Asia/Shanghai");
 class HelloWorld
 {
     public function say_hello()
