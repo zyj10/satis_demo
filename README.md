@@ -4,6 +4,7 @@
 Composer是PHP的包管理器
 
 ### 创建第一个Composer包
+- 前提：安装php及Composer
 - 1、创建如下目录结构及文件
 ```
 0 satis_demo $ tree
